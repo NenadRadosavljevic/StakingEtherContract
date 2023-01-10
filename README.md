@@ -1,7 +1,7 @@
 # StakingEthersContract
 
 ## Getting started
-* Copy project to your directory ( `git clone https://github.com/NenadRadosavljevic/StakingEtherContract` )
+* Copy project to your directory ( `git clone https://github.com/NenadRadosavljevic/StakingEthersContract` )
 * Install Hardhat and project packages (`npm install --save-dev hardhat`)
 * Compile the project (`npx hardhat compile`)
 
